@@ -1,2 +1,2 @@
 # Research-Assignment
-This is a Data Theory Research assignment for Bright Learn. 
+This is a research assignment for Bright Learn focusing on the Foundations of Data Analytics and Data Scienece. 
